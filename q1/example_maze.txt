@@ -1,0 +1,15 @@
+row-3
+col-3
+start-0,0
+goal-0,1
+d-1
+square_loc|moves|step change|is_start|is_goal
+0,0| 1,0#0,1#1,1 |1|T|F
+0,1||0|F|T
+0,2| 1,-1 |-1|F|
+1,0| -1,0 |0|F|F
+1,1| -1,0 |0|F|F
+1,2| 1,-1 |0|F|F
+2,0| -1,0 |0|F|F
+2,1| 1,0 |0|F|F
+2,2| -1,0 |0|F|F
