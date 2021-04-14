@@ -1,5 +1,5 @@
-row-3
-col-3
+row_num-3
+col_num-3
 start-0,0
 goal-0,1
 d-1
